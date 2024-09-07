@@ -5,8 +5,8 @@
 Essa aplicação simples e intuitiva te ajuda a descobrir os segredos dos sabonetes naturais da Saboê. ‍♀️ Basta digitar um ingrediente ou seu tipo de pele e pronto! Você terá uma lista personalizada e mágica do que você precisa para o seu banho de Natureza!
 **Como usar?**
 
-1. **Digite o ingrediente:** No campo de pesquisa, escreva o ingrediente que você procura (ex: argila, manteigas, óleos essenciais).
-2. **Clique em "Pesquise aqui":** A mágica acontece! A aplicação vasculha nossa base de dados e te mostra os que combinam com sua busca.
+1. **Digite o ingrediente ou tipo de pele:** No campo de pesquisa, escreva o ingrediente que você procura (ex: argila, manteigas, óleos essenciais, pele seca, pele oleosa, pele mista).
+2. **Clique em "Pesquise aqui":** A mágica acontece! A aplicação vasculha nossa base de dados e te mostra os resultados que combinam com sua busca.
 3. **Explore os resultados:** Clique nos links para saber mais sobre cada ingrediente.
 
 **Tecnologias utilizadas:**
